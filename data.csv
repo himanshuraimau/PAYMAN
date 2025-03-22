@@ -1,21 +1,6 @@
-Affiliate ID,Affiliate Name,Conversions,Revenue Generated,Commission Rate,Commission Earned,Payment Method,Payment Status
-A101,John Doe,25,2500,10,250,ACH,Paid
-A102,Sarah Smith,40,4800,12,576,USDC,Pending
-A103,Mark Lee,15,1200,8,96,ACH,Paid
-A104,Emily Clark,32,3900,10,390,USDC,Paid
-A105,Alex Brown,20,2000,10,200,ACH,Failed
-A106,Linda White,50,6500,15,975,USDC,Paid
-A107,James Wilson,10,900,9,81,ACH,Pending
-A108,Emma Johnson,35,4200,11,462,USDC,Paid
-A109,Robert King,18,1500,8,120,ACH,Pending
-A110,Olivia Evans,22,2300,10,230,USDC,Failed
-A111,Daniel Scott,42,5100,12,612,ACH,Paid
-A112,Sophia Adams,30,3600,10,360,USDC,Paid
-A113,William Hall,28,2800,10,280,ACH,Paid
-A114,Ava Wright,14,1100,8,88,USDC,Pending
-A115,Michael Green,38,4600,11,506,ACH,Failed
-A116,Lily Carter,27,3100,10,310,USDC,Paid
-A117,Benjamin Lewis,48,6000,15,900,ACH,Paid
-A118,Chloe Martin,19,1700,9,153,USDC,Pending
-A119,Ethan Nelson,31,3700,10,370,ACH,Paid
-A120,Mia Cooper,26,2900,10,290,USDC,Paid
+affiliate_id,name,conversions,revenue,avg_order_value
+1,GreenBlog,50,5000,100
+2,EcoInfluencer,30,3000,100
+3,SustainablyYou,20,4000,200
+4,NatureVibes,10,1000,100
+5,EarthAdvocate,40,6000,150 

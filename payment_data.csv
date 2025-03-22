@@ -1,0 +1,21 @@
+Affiliate ID,Affiliate Name,account_holder_name,account_number,routing_number,account_type,account_holder_type,amount,due_date
+A101,John Doe,John Doe,123456789012,123456789,checking,individual,250.00,2023-12-15
+A102,Sarah Smith,Sarah Smith,234567890123,234567890,checking,individual,400.00,2023-12-14
+A103,Mark Lee,Mark Lee,345678901234,345678901,savings,individual,150.00,2023-12-13
+A104,Emily Clark,Emily Clark,456789012345,456789012,checking,individual,320.00,2023-12-16
+A105,Alex Brown,Alex Brown,567890123456,567890123,savings,individual,200.00,2023-12-17
+A106,Linda White,Linda White LLC,678901234567,678901234,checking,business,500.00,2023-12-15
+A107,James Wilson,James Wilson,789012345678,789012345,savings,individual,100.00,2023-12-18
+A108,Emma Johnson,Emma Johnson,890123456789,890123456,checking,individual,350.00,2023-12-14
+A109,Robert King,Robert King Inc.,901234567890,901234567,checking,business,180.00,2023-12-19
+A110,Olivia Evans,Olivia Evans,012345678901,012345678,savings,individual,220.00,2023-12-15
+A111,Daniel Scott,Daniel Scott,123012301230,123012301,checking,individual,420.00,2023-12-16
+A112,Sophia Adams,Sophia Adams,234123412341,234123412,savings,individual,300.00,2023-12-17
+A113,William Hall,William Hall,345234523452,345234523,checking,individual,280.00,2023-12-18
+A114,Ava Wright,Ava Wright LLC,456345634563,456345634,checking,business,140.00,2023-12-14
+A115,Michael Green,Michael Green,567456745674,567456745,savings,individual,380.00,2023-12-15
+A116,Lily Carter,Lily Carter,678567856785,678567856,checking,individual,270.00,2023-12-16
+A117,Benjamin Lewis,Benjamin Lewis Co.,789678967896,789678967,checking,business,480.00,2023-12-17
+A118,Chloe Martin,Chloe Martin,890789078907,890789078,savings,individual,190.00,2023-12-18
+A119,Ethan Nelson,Ethan Nelson,901890189018,901890189,checking,individual,310.00,2023-12-19
+A120,Mia Cooper,Mia Cooper,012901290129,012901290,savings,individual,260.00,2023-12-15
